@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=lokesh1pawar&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 <br/>
-<img src="./assets/github-img.png" alt="Front End Developer Banner" />
+<img src="./assets/github-img-lokesh.png" alt="Front End Developer Banner" />
 <br/>
 
 🔭 I’m currently working on **HHC Phase 2 Project** using React.js, Next.js and Material UI <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
